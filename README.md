@@ -1,4 +1,6 @@
-### Hi there 👋
+### Ethan Eiss
+### University of Iowa Tippie College of Business
+### Geneva, IL
 
 <!--
 **EthanEiss/EthanEiss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
