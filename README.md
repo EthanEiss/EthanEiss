@@ -1,5 +1,5 @@
 ### Ethan Eiss
-### University of Iowa Tippie College of Business
+### University of Iowa Tippie College of Business - BBA, Business Analytics and Information Systems
 ### Geneva, IL
 
 <!--
